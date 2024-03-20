@@ -58,3 +58,30 @@
   - Chromium is a fast and secure web browser based on the Chromium project (the foundation for Chrome).
     
   - GitHub is a popular platform for hosting code repositories, managing projects, and collaborating with developers worldwide.
+
+
+# 2.System Study.
+
+ ## 2.1.Existing system.
+
+  ### 2.1.1.Description.
+  
+  Virtual painting with a webcam utilizes your computer's camera to track your movements and translate them into brushstrokes on a digital canvas. 
+  This allows for a more intuitive painting experience compared to using a traditional mouse or stylus.
+  Existing systems often employ computer vision techniques to recognize hand and finger movements, translating them into brush size, color selection, and stroke direction.
+
+  ### 2.1.2.Drawbacks.
+
+ While virtual painting with a webcam offers a unique experience, there are some limitations to consider:
+
+  **Accuracy and Precision:** Webcam tracking can be less precise compared to dedicated drawing tablets. This can lead to shaky lines, unintended brushstrokes, and difficulty achieving fine details.
+
+  **Limited Brush Control:** Pressure sensitivity, a key aspect of traditional painting, is often difficult to replicate accurately with a webcam. This can make it challenging to achieve realistic brush effects.
+
+  **Lighting Dependence:** The accuracy of webcam tracking can be impacted by lighting conditions. Poor lighting or shadows can lead to misinterpreted movements.
+
+  **Limited Workspace:** Unlike a physical canvas, the virtual canvas is restricted by your computer screen size.
+
+  **Learning Curve:** Using a webcam for painting requires adapting your hand movements for the system to interpret them correctly. This can take time and practice.
+
+ ## 2.2.Proposed System.
