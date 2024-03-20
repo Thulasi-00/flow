@@ -36,14 +36,19 @@
   **Version Control System:** Git (Distributed version control for code management).
 
   **Graphical User Interface (GUI):** KDE Plasma 6 (Feature-rich desktop environment).
+  
 
   #### Additional Tools:
+
 
   **Web Browser:** Chromium (Fast and open-source Chrome alternative).
   
   **Version Control Interface:** GitHub (Popular platform for hosting code and collaborating).
 
+  
+
   #### Details:
+
 
   - Arch Linux is known for its bleeding-edge packages and customization options.
 
@@ -62,9 +67,12 @@
 
 # 2.System Study.
 
+
  ## 2.1.Existing system.
 
+
   ### 2.1.1.Description.
+
   
   Virtual painting with a webcam utilizes your computer's camera to track your movements and translate them into brushstrokes on a digital canvas. 
   This allows for a more intuitive painting experience compared to using a traditional mouse or stylus.
@@ -83,5 +91,6 @@
   **Limited Workspace:** Unlike a physical canvas, the virtual canvas is restricted by your computer screen size.
 
   **Learning Curve:** Using a webcam for painting requires adapting your hand movements for the system to interpret them correctly. This can take time and practice.
+  
 
  ## 2.2.Proposed System.
